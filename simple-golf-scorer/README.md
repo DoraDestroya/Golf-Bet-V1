@@ -45,4 +45,4 @@ A lightweight, browser-based golf scoring application that runs entirely in your
 
 ## License
 
-MIT License - feel free to use and modify as needed!
+MIT License - feel free to use and modify as needed! 
